@@ -7,7 +7,7 @@ import AppError from '../errors/AppError';
 interface Request {
   title: string;
   value: number;
-  type: string;
+  type: 'income' | 'outcome';
   category: string;
 }
 
@@ -15,7 +15,7 @@ interface Response {
   id: string;
   title: string;
   value: number;
-  type: string;
+  type: 'income' | 'outcome';
   category: string;
 }
 
