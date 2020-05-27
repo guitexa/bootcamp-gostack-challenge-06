@@ -4,6 +4,11 @@
 
 ## :rocket: Desafio 06: Banco de dados e upload de arquivos no Node.js
 
+<br />
+<p align="center">
+<img alt="Projeto em funcionamento" src="https://media.giphy.com/media/ic7xxUn6cHB3fJKqEO/giphy.gif">
+</p>
+
 ✔ [Acessar página do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload)
 
 🏁 Desafio completado em 15 de maio de 2020
